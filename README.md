@@ -4,7 +4,9 @@ This a roadmap to develop the required skills in software development.
 **The Plan of Action**
 
 The purpose: To attain the necessary skills, ranging from creating, deploying and supporting software.
+
 Duration: I am giving myself 12 months to gain the required skills.
+
 Outcome: 
 
 **Priorities**
